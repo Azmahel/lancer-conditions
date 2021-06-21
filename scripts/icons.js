@@ -495,6 +495,66 @@ export const utilIcons = [
     label: "Reactor Meltdown",
     icon: "modules/lancer-conditions/icons/util/reactor-meltdown.png",
   },
+  {
+    id: "core",
+    label: "Core Power",
+    icon: "modules/lancer-conditions/icons/util/CorePower.png",
+  },
+  {
+    id: "npc",
+    label: "NPC",
+    icon: "modules/lancer-conditions/icons/util/NPC.png",
+  },
+  {
+    id: "reaction",
+    label: "Reaction",
+    icon: "modules/lancer-conditions/icons/util/Reaction.png",
+  },
+  {
+    id: "readied",
+    label: "Readied Action",
+    icon: "modules/lancer-conditions/icons/util/Readied Action.png",
+  },
+  {
+    id: "recharge",
+    label: "Recharge",
+    icon: "modules/lancer-conditions/icons/util/Recharge.png",
+  },
+  {
+    id: "reload",
+    label: "Reload",
+    icon: "modules/lancer-conditions/icons/util/Reload.png",
+  },
+  {
+    id: "stress",
+    label: "Stress",
+    icon: "modules/lancer-conditions/icons/util/Stress.png",
+  },
+  {
+    id: "structure",
+    label: "Structure",
+    icon: "modules/lancer-conditions/icons/util/Structure.png",
+  },
+  {
+    id: "symbol_1",
+    label: "Square",
+    icon: "modules/lancer-conditions/icons/util/Symbol1.png",
+  },
+  {
+    id: "symbol_2",
+    label: "Cross",
+    icon: "modules/lancer-conditions/icons/util/Symbol2.png",
+  },
+  {
+    id: "symbol_3",
+    label: "Circle",
+    icon: "modules/lancer-conditions/icons/util/Symbol3.png",
+  },
+  {
+    id: "symbol_4",
+    label: "Triangle",
+    icon: "modules/lancer-conditions/icons/util/Symbol4.png",
+  },
 ];
 
 export const tommyCondStatIcons = [
